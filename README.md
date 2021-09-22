@@ -11,7 +11,7 @@
 
 
 
-[![Linkedin](https://raw.githubusercontent.com/username/username/master/images/linkedin.png)](https://www.linkedin.com/in/shourya-gupta-80237b1b9/)
+[![Linkedin](https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png)](https://www.linkedin.com/in/shourya-gupta-80237b1b9/)
 
 
 <br />
