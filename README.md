@@ -3,7 +3,8 @@
 
 ## I'm a Student, a Twin, a Developer, and an avid Learner!!
 
-- 🌱 I’m currently learning Typescript and Tailwind CSS 🤣
+- 🌱 I’m currently learning Typescript and Tailwind CSS
+- 🌱 An avid Machine Learning Enthusiast
 - 👯 I always look to collaborate with other developers and possess a strong belief in self-learning.
 - ⚡ Fun fact: I love to play and watch cricket!
 
