@@ -9,8 +9,9 @@
 
 ### Connect with me:
 
-[[!<img align="left" alt="shourya2002-geek | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC1AZ7XYPRPE6BM44ArY96KA)]
-[[!<img align="left" alt="shourya2002-geek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shourya-gupta-80237b1b9/)]
+
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
 
 
 <br />
