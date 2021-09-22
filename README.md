@@ -1,7 +1,7 @@
 ### Hi there, I'm Shourya!👋
 
 
-## I'm a Student, Twin, Developer, and Learner!!
+## I'm a Student, a Twin, a Developer, and an avid Learner!!
 
 - 🌱 I’m currently learning Typescript and Tailwind CSS 🤣
 - 👯 I always look to collaborate with other developers and possess a strong belief in self-learning.
@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="shourya2002-geek | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />(https://www.youtube.com/channel/UC1AZ7XYPRPE6BM44ArY96KA)
-<img align="left" alt="shourya2002-geek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/shourya-gupta-80237b1b9/)
+[[!<img align="left" alt="shourya2002-geek | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC1AZ7XYPRPE6BM44ArY96KA)]
+[[!<img align="left" alt="shourya2002-geek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shourya-gupta-80237b1b9/)]
 
 
 <br />
