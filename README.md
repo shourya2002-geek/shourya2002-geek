@@ -7,6 +7,7 @@
 - 🌱 An avid Machine Learning Enthusiast
 - 👯 I always look to collaborate with other developers and possess a strong belief in self-learning.
 - ⚡ Fun fact: I love to play and watch cricket!
+- I am working on a lot private repositories and collaborative projects.
 
 ### Connect with me:
 
