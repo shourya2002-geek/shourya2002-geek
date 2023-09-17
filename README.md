@@ -1,7 +1,7 @@
 ### Hi there, I'm Shourya!👋
 
 
-## I'm a Student, a Twin, a Developer, and an avid Learner!!
+## I'm a Student, a Developer, and an avid Learner!!
 
 - 🌱 I’m currently learning Typescript and Tailwind CSS
 - 🌱 An avid Machine Learning Enthusiast
