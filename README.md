@@ -3,8 +3,7 @@
 
 ## I'm a Student, a Developer, and an avid Learner!!
 
-- 🌱 I’m currently learning Typescript and Tailwind CSS
-- 🌱 An avid Machine Learning Enthusiast
+- 🌱 An avid Machine Learning, Deep Learning and Computer Vision Enthusiast
 - 👯 I always look to collaborate with other developers and possess a strong belief in self-learning.
 - ⚡ Fun fact: I love to play and watch cricket!
 - I am working on a lot private repositories and collaborative projects.
