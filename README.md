@@ -1,12 +1,11 @@
-### Hi there, I'm Shourya!👋
+### Hi there, I'm Shourya!
 
 
-## I'm a Student, a Developer, and an avid Learner!!
+## I'm a Student, a Developer, and an avid Learner
 
-- 🌱 An avid Machine Learning, Deep Learning and Computer Vision Enthusiast
-- 👯 I always look to collaborate with other developers and possess a strong belief in self-learning.
-- ⚡ Fun fact: I love to play and watch cricket!
-- I am working on a lot private repositories and collaborative projects.
+- I develope software which affects people's lives at scale.
+- I possess a strong interest in Full Stack Dev, Deep Learning, and Machine Learning.
+- You can generally find me working on personal and collaborative projects.
 
 ### Connect with me:
 
