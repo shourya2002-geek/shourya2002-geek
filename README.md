@@ -3,7 +3,7 @@
 
 ## I'm a Student, a Developer, and an avid Learner
 
-- I develope software which affects people's lives at scale.
+- I develop software which affects people's lives at scale.
 - I possess a strong interest in Full Stack Dev, Deep Learning, and Machine Learning.
 - You can generally find me working on personal and collaborative projects.
 
