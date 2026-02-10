@@ -1,9 +1,9 @@
 ### Hi there, I'm Shourya!
 
 
-## I'm a Developer, and an avid Learner
+## I'm a Software Engineer
 
 - I develop software which affects people's lives at scale.
-- I possess a strong interest in Full Stack Dev, Deep Learning, and Machine Learning.
+- I possess a strong interest in Deep Learning, and Machine Learning and Dev.
 - You can generally find me working on personal and collaborative projects.
 
