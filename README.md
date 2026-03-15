@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=false&vCenter=true&width=700&lines=Hey%2C+I'm+Shourya+Gupta+%F0%9F%91%8B;Senior+Associate+Engineer+%40+GSK;AI+%7C+LLMs+%7C+RAG+%7C+Computer+Vision" alt="Typing SVG" />
+Senior Associate Engineer @ GSK
 </h1>
 
 ### 🚀 AI Research • Generative AI & RAG Systems • Computer Vision • Cloud-Native Engineering
