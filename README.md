@@ -2,7 +2,7 @@
 Senior Associate Engineer @ GSK
 </h1>
 
-### 🚀 AI Research • Generative AI & RAG Systems • Computer Vision • Cloud-Native Engineering
+### 🚀 AI Research • ML Systems at Scale• Computer Vision • Cloud-Native Engineering
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shourya-gupta-80237b1b9/">
