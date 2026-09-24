@@ -2,8 +2,6 @@
 Senior Associate Software Engineer @ GSK
 </h1>
 
-### 🚀 AI Research • ML Systems at Scale• Computer Vision • Cloud-Native Engineering
-
 <p align="left">
   <a href="https://www.linkedin.com/in/shourya-gupta-80237b1b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,13 +22,6 @@ Senior Associate Software Engineer @ GSK
   <img src="https://img.shields.io/github/followers/shourya2002-geek?label=Followers&style=for-the-badge&color=00D9FF" />
   <img src="https://img.shields.io/badge/Publications-6-blue?style=for-the-badge" />
 </p>
-
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║  "Building intelligent systems that bridge research           ║
-║   and production at scale"                                    ║
-╚════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -107,103 +98,6 @@ class ShouryaGupta:
 - 🏗️ Collaborated to design and build a scalable web platform unifying communication channels for 8000+ users
 - 🔧 Built end-to-end solution using **React.js, Node.js**, cloud databases with custom APIs and analytics dashboards
 - 📦 Developed and maintained microservices in **TypeScript and Node.js** for employee benefit management
-
-### 🤖 Mindkosh AI | Machine Learning Intern
-**Remote** • *Jan 2024 – Jul 2024*
-
-- 🔒 Developed **AI-powered PII anonymization pipeline** with deep learning–based face and license plate detectors
-- 🎯 Applied **SOTA Video Object Tracking** architectures for real-time multi-object tracking with few-shot learning
-- 🚗 Implemented **3D object detection** on LiDAR datasets for autonomous perception
-
----
-
-## 🔬 Research Experience
-
-### 🎓 San José State University | Generative AI Research Intern
-**MICoSys Lab** • *Jan 2024 – Jul 2024* • Remote  
-*Mentor: Dr. Saptarshi Sengupta*
-
-- 🔬 Investigated **LLMs as end-to-end classifiers** for tabular prediction tasks, framing survivability data as NL question-answering
-- 📈 Developed and benchmarked **three pipelines**: TabLLM, DistilBERT embeddings + tree models, and RAG-augmented LLM reasoning
-- 🔗 Extended to **GraphRAG** with knowledge-graph-based retrieval for structured entity-relationship reasoning
-- 🏆 **Published at AAAI 2025 Spring Symposium**, San Francisco
-
-### 🎓 Indian Institute of Technology Kharagpur | Deep Learning Research Intern
-**Medical Imaging and Theragnostics Lab** • *Dec 2022 – Feb 2023* • Remote  
-*Mentor: Dr. Subhamoy Mandal*
-
-- 🌿 Contributed to **AgrIndia** (IEEE RAS funded) — AI-assisted detection of chlorophyll content using spectral signatures
-- 🧬 Developed **deep autoencoder–based spectral unmixing framework** achieving performance on par with UCLS/FCLS methods
-- 🎯 Designed novel **3-point spectral measure loss function** for physically consistent spectral reconstruction
-- 🔄 Investigated **GAN-based synthetic multispectral data generation** and RL-based optimization layers
-
-### ⚛️ Manipal Institute of Technology | Undergraduate Researcher
-**Cybersecurity and Quantum Computing Group** • *Aug 2022 – Nov 2023*  
-*Mentor: Dr. Vivekananda Bhat K*
-
-- 💰 Research empowered by **$10,200 MeitY grant** under AWS QCAL Programme
-- 🔬 Designed **QSVC, Pegasos-QSVC, and hybrid quanvolution-based QNN** architectures for ECG-based CVD detection
-- 🏆 **Published in IEEE Access (Q1)** with 30+ citations
-- ⚡ **Global Finalist at QETCI Quantum Hackathon 2022** (Top 16/1600+ teams from 25+ countries)
-
-### 👁️ Manipal Institute of Technology | Undergraduate Researcher
-**Biometrics and Software Engineering Group** • *Jul 2022 – Nov 2023*  
-*Mentor: Dr. Srikanth Prabhu*
-
-- 🔍 Built **computer-vision pipeline** for retinal vessel segmentation using CLAHE, Gaussian smoothing, and Canny edge detection
-- 🔐 Integrated segmentation into a **secure, privacy-preserving image-processing workflow**
-- 📚 **Published in Springer CCIS** and IOP Journal of Physics
-
-### 🦠 Manipal Institute of Technology | Undergraduate Researcher
-*Sept 2022 – Jul 2023* • *Mentor: Dr. Nisha P. Shetty*
-
-- 🤖 Fine-tuned **BERT and XLNet** on COVID-19 ANTi-Vax dataset for vaccine misinformation classification
-- 🕸️ Developed **user association graph algorithm** for modeling misinformation diffusion
-- 📄 **Published in Procedia Computer Science** and presented at ICMLDE 2023
-
----
-
-## 📚 Publications
-
-1. **[Survival Analysis for Cancers using RAG on SEER Database](https://aaai.org/spring-symposia/)**  
-   J. Vaidyanathan, **S. Gupta**, J. Lee, S. Prabhu, S. Sengupta  
-   *AAAI 2025 Spring Symposium*, San Francisco, 2025
-
-2. **[QuCardio: Application of Quantum Machine Learning for Detection of Cardiovascular Diseases](https://ieeexplore.ieee.org/document/10335179)**  
-   S. Prabhu, **S. Gupta**, G. M. Prabhu, A. V. Dhanuka, K. V. Bhat  
-   *IEEE Access (Q1)*, vol. 11, pp. 136122–136135, 2023  
-   **Citations: 30+** | DOI: [10.1109/ACCESS.2023.3338145](https://doi.org/10.1109/ACCESS.2023.3338145)
-
-3. **[EyeEncrypt: A Cyber-Secured Framework for Retinal Image Segmentation](https://link.springer.com/chapter/10.1007/978-981-99-2264-2_9)**  
-   G. Hegde, **S. Gupta**, G. M. Prabhu, S. V. Bhandary  
-   *ATIS 2022 — Springer CCIS*, vol. 1804, 2023  
-   DOI: [10.1007/978-981-99-2264-2_9](https://doi.org/10.1007/978-981-99-2264-2_9)
-
-4. **[A Systematic Review of Deep Learning Approaches for Vessel Segmentation in Retinal Fundus Images](https://iopscience.iop.org/article/10.1088/1742-6596/2571/1/012021/meta)**  
-   G. Hegde, S. Prabhu, **S. Gupta**, G. M. Prabhu, A. Palorkar, M. V. Srujan, S. V. Bhandary  
-   *IOP Journal of Physics: Conference Series*, vol. 2571, 2023  
-   DOI: [10.1088/1742-6596/2571/1/012021](https://doi.org/10.1088/1742-6596/2571/1/012021)
-
-5. **[Addressing Vaccine Misinformation on Social Media by leveraging Transformers](https://www.sciencedirect.com/science/article/pii/S1877050924008470)**  
-   C. Rao, **S. Gupta**, G. M. Prabhu, A. R. Kumar, N. P. Shetty  
-   *Procedia Computer Science (ICMLDE 2023)*, vol. 235, pp. 1803–1813, 2024  
-   DOI: [10.1016/j.procs.2024.04.171](https://doi.org/10.1016/j.procs.2024.04.171)
-
-6. **[SatelTensor: Enhanced Satellite Data Exploration through Tensor Decomposition](https://sites.google.com/view/wtcml/home)**  
-   **S. Gupta**, G. M. Prabhu  
-   *Poster at TCML Workshop, Indian Institute of Science (IISc)*, 2023
-
----
-
-## 🎤 Oral & Poster Presentations
-
-- **AAAI 2025 Spring Symposium** — Survival Analysis using RAG on SEER Database, San Francisco, 2025
-
-- **[SatelTensor: Satellite Data Exploration via Tensor Decomposition](https://sites.google.com/view/wtcml/home)**  
-  *TCML Workshop, Indian Institute of Science (IISc)*, Bengaluru, 2023
-
-- **Digital Health Symposium** — Secure AI-driven Diagnostic Platform  
-  *IIT Kharagpur*, 2023
 
 ---
 
