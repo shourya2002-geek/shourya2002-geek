@@ -1,5 +1,5 @@
 <h1>
-Senior Associate Engineer @ GSK
+Senior Associate Software Engineer @ GSK
 </h1>
 
 ### 🚀 AI Research • ML Systems at Scale• Computer Vision • Cloud-Native Engineering
